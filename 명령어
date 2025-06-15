@@ -1,0 +1,2 @@
+cd dht-monitor1
+npm run build
