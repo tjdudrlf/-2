@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+  font-family: sans-serif;
+  margin-top: 50px;
+}
+
+.sensor-container {
+  display: flex;
+  justify-content: center;
+  gap: 50px;
+  margin-top: 30px;
+}
+
+.sensor-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 1.5em;
+}
+
+.sensor-item img {
+  width: 80px;
+  height: 80px;
+  margin-bottom: 10px;
+}
